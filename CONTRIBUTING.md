@@ -1,28 +1,29 @@
 # 🌐 Contribuindo em Projetos Open Source - DIO
 
-Este projeto faz parte do bootcamp da [DIO](https://www.dio.me/), focado em simular a experiência real de contribuir para um projeto de código aberto (Open Source). 
+Este repositório foi desenvolvido durante o bootcamp da [DIO](https://www.dio.me/), com o objetivo central de simular o fluxo de contribuição em projetos de código aberto (Open Source).
 
 ## 🎯 Objetivo do Desafio
-O foco principal não era apenas o código (HTML/CSS/JS), mas sim dominar o **workflow de colaboração no GitHub**. Através deste laboratório, pratiquei como interagir com repositórios de terceiros de forma profissional.
+O propósito deste laboratório foi dominar o **workflow de colaboração no GitHub**. Mais do que o código em si, o foco foi aprender a interagir com repositórios de terceiros de maneira profissional e organizada.
 
 ## 🧠 Aprendizados e Processos
-Durante este desafio, consolidei conhecimentos em:
-* **Fork & Clone:** Entendendo como criar uma cópia pessoal de um projeto para desenvolvimento.
-* **Feature Branches:** Organização do trabalho em ramos específicos para manter o código principal seguro.
-* **Pull Requests (PR):** Como abrir uma solicitação de alteração, descrever mudanças e aguardar a revisão de código.
-* **Sincronização:** Manter meu repositório local atualizado com o repositório original (upstream).
+Durante este desafio, foquei no domínio das seguintes ferramentas e conceitos:
 
-## 🛠️ Tecnologias Utilizadas
-No projeto base, interagimos com:
-- **HTML5** e **CSS3** (Estrutura e Estilização)
-- **JavaScript** (Lógica de interação)
-- **Git & GitHub** (O coração deste desafio)
+* **Versionamento com Git:** Prática de comandos essenciais para gestão de histórico.
+* **Fluxo de Contribuição:** Entendimento prático de **Fork**, **Clone** e **Push**.
+* **Gestão de Branches:** Criação de *feature branches* para organizar o desenvolvimento e manter a integridade do código principal.
+* **Pull Requests (PR):** Processo de abertura, descrição e submissão de melhorias para revisão.
+* **Documentação com Markdown:** Estruturação de READMEs claros e profissionais para projetos.
 
-## 🔗 Demonstração
-Você pode visualizar a página oficial do projeto da comunidade aqui:
+## 🛠️ Tecnologias e Ferramentas
+* **Git Bash** (Interface de linha de comando)
+* **GitHub** (Hospedagem e Colaboração)
+* **Markdown** (Documentação técnica)
+
+## 🔗 Demonstração do Projeto Base
+Você pode visualizar a página que serviu de base para as contribuições da comunidade aqui:
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
 
 ---
-✨ **Curiosidade:** Este foi um dos meus primeiros contatos diretos com Open Source, reforçando a importância da colaboração na comunidade de tecnologia!
+✨ Este projeto marcou meu início com **Open Source**, reforçando como o versionamento de código é fundamental para a engenharia de software.
 
 [Meu GitHub](https://github.com/larissaribeiro-dev)
