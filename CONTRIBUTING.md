@@ -1,6 +1,6 @@
 # 🌐 Contribuindo em Projetos Open Source - DIO
 
-Este repositório foi desenvolvido durante o bootcamp da [DIO](https://www.dio.me/), com o objetivo central de simular o fluxo de contribuição em projetos de código aberto (Open Source).
+Este repositório foi desenvolvido durante o bootcamp TIVIT - .Net com GitHub Copilot da [DIO](https://www.dio.me/), com o objetivo central de simular o fluxo de contribuição em projetos de código aberto (Open Source).
 
 ## 🎯 Objetivo do Desafio
 O propósito deste laboratório foi dominar o **workflow de colaboração no GitHub**. Mais do que o código em si, o foco foi aprender a interagir com repositórios de terceiros de maneira profissional e organizada.
